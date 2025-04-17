@@ -13,7 +13,7 @@ Este es un script en Node.js que convierte un archivo `.vcf` (vCard) con contact
 bash
 ```git clone https://github.com/tu-usuario/vcf-to-csv.git```
 
-Colocá tu archivo .vcf en la misma carpeta del script. Asegurate de renombrarlo como:
+2. Colocá tu archivo .vcf en la misma carpeta del script. Asegurate de renombrarlo como:
 
 vcards_20250416_164738.vcf
 
