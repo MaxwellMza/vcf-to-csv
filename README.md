@@ -10,9 +10,8 @@ Este es un script en Node.js que convierte un archivo `.vcf` (vCard) con contact
 
 1. Cloná este repositorio o descargá los archivos:
 
-```bash```
-git clone https://github.com/tu-usuario/vcf-to-csv.git
-cd vcf-to-csv
+bash
+```git clone https://github.com/tu-usuario/vcf-to-csv.git```
 
 Colocá tu archivo .vcf en la misma carpeta del script. Asegurate de renombrarlo como:
 
