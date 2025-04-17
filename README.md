@@ -22,7 +22,7 @@ O cambiá el nombre del archivo en el código según corresponda.
 🚀 Cómo usar
 Desde la terminal, ejecutá el script con:
 
-```node index.js```
+```node vcf-to-csv.js```
 
 Este comando generará un archivo llamado contactos.csv con la siguiente estructura:
 
