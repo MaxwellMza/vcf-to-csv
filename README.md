@@ -27,8 +27,8 @@ Desde la terminal, ejecutá el script con:
 Este comando generará un archivo llamado contactos.csv con la siguiente estructura:
 
 Nombre,Teléfono
-Juan Pérez,+5492611234567
-María Gómez,+5492617654321
+Juan Pérez,+5492611234567  
+María Gómez,+5492617654321  
 ...
 
 ✅ El script filtra automáticamente los números de teléfono duplicados.
