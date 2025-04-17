@@ -33,7 +33,7 @@ María Gómez,+5492617654321
 
 ✅ El script filtra automáticamente los números de teléfono duplicados.
 
-🧠 ¿Qué hace exactamente?
+🧠 ¿Qué hace exactamente?  
 Lee un archivo .vcf
 
 Extrae los campos FN (nombre completo) y TEL (número de teléfono)
@@ -42,6 +42,6 @@ Elimina duplicados basándose en el número de teléfono
 
 Exporta el resultado a contactos.csv
 
-📝 Personalización
+📝 Personalización  
 Podés modificar el nombre del archivo .vcf o agregar más campos si lo necesitás (como email, organización, etc.).
 
