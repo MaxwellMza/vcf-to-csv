@@ -30,7 +30,6 @@ entries.forEach((entry) => {
   }
 });
 
-// Escribir CSV
 const csvData = ["Nombre,Teléfono"]
   .concat(contacts.map((c) => `"${c.name}","${c.phone}"`))
   .join("\n");
